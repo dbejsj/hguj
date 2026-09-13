@@ -1,7 +1,0 @@
-cd /path/to/your/project
-git init
-git remote add origin https://github.com/soewin23/Python_Group_5.git
-git add .
-git commit -m "Add Python project"
-git branch -M main
-git push -u origin main
